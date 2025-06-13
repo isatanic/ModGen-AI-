@@ -18,7 +18,7 @@ Todos los conceptos, ideas técnicas y propuestas descritas en este repositorio 
 
 Para colaboraciones, licencias u otros usos, contactar a:
 
-**[tu email (opcional) o escribir “por mensaje directo” si no quieres darlo]**
+**[styrix50@gmail.com*
 
 ---
 
