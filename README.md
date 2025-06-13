@@ -2,7 +2,7 @@
 ModGen AI es una propuesta de herramienta basada en inteligencia artificial que automatiza la creación de  imods gráficos para videojuegos. Ladea central es que la IA pueda analizar texturas del juego (en formato .dds), identificar su categoría visual 
 # 📜 Declaración de Derechos de Idea
 
-Esta propuesta de herramienta/mod basada en Inteligencia Artificial fue creada por **[tu nombre o alias aquí]** con fecha **[fecha de publicación]**.
+Esta propuesta de herramienta/mod basada en Inteligencia Artificial fue creada por **[carlos alberto cabrera martinez]** con fecha **[fecha de publicación]**.
 
 ## 🔐 Derechos de autor
 
